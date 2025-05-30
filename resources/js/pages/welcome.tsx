@@ -148,7 +148,7 @@ export default function Welcome() {
                         {/* Mobile Appointment */}
                         <div className="w-full lg:hidden mt-6 bg-white/5 border border-white/10 rounded-2xl backdrop-blur-md shadow-lg p-4">
                             <h4 className="text-center text-lg font-semibold mb-2">Book Appointment</h4>
-                            <form action="https://formsubmit.co/minhaj.it@ayenz.com" method="POST" className="space-y-3">
+                            <form action="https://formsubmit.co/minhaj@vblaze.org" method="POST" className="space-y-3">
                                 <input
                                     type="text"
                                     name="name"
