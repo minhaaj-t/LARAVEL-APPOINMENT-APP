@@ -111,7 +111,7 @@ export default function Welcome() {
                                     {/* Back Side */}
                                     <div className="absolute inset-0 bg-white/10 border border-white/20 backdrop-blur-xl rounded-2xl shadow-2xl p-4 text-sm text-white [transform:rotateY(180deg)] [backface-visibility:hidden]">
                                         <h4 className="text-center text-lg font-semibold mb-2">Book Appointment</h4>
-                                        <form action="https://formsubmit.co/minhaj.it@ayenz.com" method="POST" className="space-y-3">
+                                        <form action="https://formsubmit.co/minhaj@vblaze.org" method="POST" className="space-y-3">
                                             <input
                                                 type="text"
                                                 name="name"
