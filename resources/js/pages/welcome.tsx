@@ -47,13 +47,13 @@ export default function Welcome() {
                                     href={route('login')}
                                     className="backdrop-blur-md bg-white/10 border border-white/20 px-4 py-1.5 rounded-xl hover:bg-white/20 transition"
                                 >
-                                    Log in
+                                    Sign in
                                 </Link>
                                 <Link
                                     href={route('register')}
                                     className="backdrop-blur-md bg-white/10 border border-white/20 px-4 py-1.5 rounded-xl hover:bg-white/20 transition"
                                 >
-                                    Register
+                                    Sign Up
                                 </Link>
                             </>
                         )}
